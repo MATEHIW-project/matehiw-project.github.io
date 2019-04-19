@@ -22,3 +22,9 @@ Master's thesis: "Added value of machine-learning methods in forecasting wind tu
   - Applied Machine Learning (to predict icing on wind turbines)
   - High Performance Computing and experience in larger-than-RAM applications
   - Handling of Big Data in various formats like GRIB or NetCDF (python ...)
+
+
+#### Tools
+For (big) data analysis and prediction, we use these tools:
+Analyzing: pandas, seaborn, xarray, iris, dask
+Machine Learning: scikit-learn, keras, pyGAM, pegasosSVM, xgboost
