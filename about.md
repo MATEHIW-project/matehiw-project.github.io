@@ -1,18 +1,24 @@
 ---
 layout: page
-title: About
+title: About us
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We, Sebastian Lehner and Lukas Kugler, are studying the Master program in Meteorology at the University of Vienna and we expect to finish in 2019.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+#### [Sebastian Lehner, BSc](https://www.researchgate.net/profile/Sebastian_Lehner)
+- Master's thesis: "Detection and attribution of anthropogenic impact on phenological phases"
+- Expertise:
+  - Meteorology/Climatology
+  - Empirical-Statistical downscaling of GCM climate data (with several conference posters)
+  - Handling of Big Data in various formats like GRIB or NetCDF (python ...)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
 
 
-[jekyll-organization]: https://github.com/jekyll
+#### [Lukas Kugler, BSc](https://lkugler.github.io/)
+Master's thesis: "Added value of machine-learning methods in forecasting wind turbine icing"
+- Expertise:
+  - Numerical Weather Prediction
+  - Applied Machine Learning (to predict icing on wind turbines)
+  - High Performance Computing and experience in larger-than-RAM applications
+  - Handling of Big Data in various formats like GRIB or NetCDF (python ...)
