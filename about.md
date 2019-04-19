@@ -11,7 +11,7 @@ We, Sebastian Lehner and Lukas Kugler, are studying the Master program in Meteor
 - Expertise:
   - Meteorology/Climatology
   - Empirical-Statistical downscaling of GCM climate data (with several conference posters)
-  - Handling of Big Data in various formats like GRIB or NetCDF (python ...)
+  - Handling of Big Data in various formats like GRIB or NetCDF
 
 
 
@@ -21,7 +21,7 @@ Master's thesis: "Added value of machine-learning methods in forecasting wind tu
   - Numerical Weather Prediction
   - Applied Machine Learning (to predict icing on wind turbines)
   - High Performance Computing and experience in larger-than-RAM applications
-  - Handling of Big Data in various formats like GRIB or NetCDF (python ...)
+  - Handling of Big Data in various formats like GRIB, NetCDF, TIFF
 
 
 #### Tools
