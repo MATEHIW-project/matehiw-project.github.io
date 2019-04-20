@@ -13,5 +13,5 @@ from this_team import MachineLearning
 
 def my_extreme_weather(event):
     ML = MachineLearning.train(on=event)
-  return ML.rapid_success()
+  return ML.fast_success()
 {% endhighlight %}
