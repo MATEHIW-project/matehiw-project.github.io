@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 This will be a text about our application to the 2019 ESoWC competition for topic #12.
 
-We will be posting tutorials for everyone interested in using Copernicus' open data to achieve fast results without spending too much time on data preprocessing and searching through APIs:
+We will be posting tutorials for everyone interested in using Copernicus' open data to achieve fast results without spending too much time on data preprocessing, finding suitable model parameters and searching through APIs:
 
 {% highlight python %}
 from this_team import MachineLearning
