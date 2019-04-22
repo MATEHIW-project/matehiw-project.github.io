@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Application for the Challenge"
-date:   2019-04-20 00:00:00 +0200
+date:   2019-04-22 00:00:00 +0200
 categories: jekyll update
 ---
-This will be a text about our application to the 2019 ESoWC competition for topic #12.
+Today we submitted our proposal for the topic "Machine learning for predicting extreme weather hazards" of ECMWF's Summer of Weather Code (ESoWC) 2019. The plan is to compare various machine learning methods on the subject of flood forecasting using data from ERA5, GloFAS and ECMWF's severe weather event database. All the code will be open source available through this github account.
 
 We will be posting tutorials for everyone interested in using Copernicus' open data to achieve fast results without spending too much time on data preprocessing, finding suitable model parameters and searching through APIs:
 
