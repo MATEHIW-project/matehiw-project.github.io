@@ -7,10 +7,11 @@ permalink: /about/
 We, Sebastian Lehner and Lukas Kugler, are studying the Master program in Meteorology at the University of Vienna and we expect to finish in 2019.
 
 #### [Sebastian Lehner, BSc](https://www.researchgate.net/profile/Sebastian_Lehner)
-- Master's thesis: "Detection and attribution of anthropogenic impact on phenological phases"
+- Master's thesis: "Detection and attribution of anthropogenic impacts on phenological phases"
 - Expertise:
-  - Meteorology/Climatology
-  - Empirical-Statistical downscaling of GCM climate data (with several conference posters)
+  - Synoptic Meteorology & Climatology
+  - High-Impact weather
+  - Empirical-Statistical downscaling of GCM climate data
   - Handling of Big Data in various formats like GRIB or NetCDF
 
 
