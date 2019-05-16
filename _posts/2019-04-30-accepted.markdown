@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Accepted! Whoooho!"
+date:   2019-04-30 00:00:00 +0200
+categories: jekyll update
+---
+Today our proposal got accepted! Did we expect that? Not really. On one hand we suspected that we probably had an advantage due to our meteorological background, on the other hand we are no computer science students, so we could be lacking on that side. Another thing is that we didn't know how high we should set our goals to a) be accepted and b) not get in trouble with too much work in the 4-month coding phase.
+
+Finally we are now accepted besides two other machine-learning teams, who will be focusing on drought and wildfire prediction.
+
+
+[Link to ESoWC - Announcement of accepted projects](https://www.ecmwf.int/en/learning/workshops/ecmwf-summer-weather-code-2019)
+
+
+![Flowchart workflow](/assets/workflow.png)
+
+![Phases of the project](/assets/phases.jpg)
