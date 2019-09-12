@@ -36,3 +36,4 @@ Finally, all code is available on [our github page](https://github.com/esowc/ml_
 
 For further information visit our github page, [ml_flood@github](https://github.com/esowc/ml_flood), or
 [the official website of the ECMWF Summer of Weather Code](https://www.ecmwf.int/en/learning/workshops/ecmwf-summer-weather-code-2019).
+Follow all projects on Twitter:  [@esowc_ecmwf](https://twitter.com/esowc_ecmwf) and #ESoWC2019
