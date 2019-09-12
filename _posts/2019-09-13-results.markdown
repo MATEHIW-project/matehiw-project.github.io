@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Final Results"
+date:   2019-09-13 00:00:00 +0000
+categories: jekyll update
+---
+
+Hi, 
+
+after 4 months of coding in our spare time, the project has come to an end and we are proud to present some of the results. 
+
+In the first few weeks, while analyzing the datasets, we realized the complexity of hydrological models from a modelling point of view: 
+In contrast to many other tasks like fire risk modelling, we are not dealing with local cause-effect relation but a highly dynamical quantity. 
+Water is transported to a certain river point on a wide range of time and spatial scales through quite different mechanisms (surface/sub-surface runoff).
+Considering these difficulties, we came up with a 
+[complex model architecture](https://raw.githubusercontent.com/esowc/ml_flood/master/notebooks/resources/model-steps_v2-1.png) 
+that would be able to handle these and predict the river flow on the whole spatial domain.
+
+As the final project deadline came closer, we decided to first finish the more basic model architectures we described in our project proposal
+and leave the complex one as conceptual outlook. 
+
+In the end, the results consumed quite a bit more time and effort than expected. 
+Nevertheless, some of the most promising machine-learning methods were implemented and tested for the use as 
+flood forecasting models: [Linear and Support-vector regression, Gradient-Boosting as well as a time-delay neural network were used.](https://github.com/esowc/ml_flood/tree/master/notebooks/3_model_tests) 
+
+All models were trained with data from ERA5 and GloFAS reanalyses for about ten years and evaluated against each other, but also against persistence forecasts and the GloFAS forecast reruns.
+The 2013 European floods served as example case of how these ML models could have predicted the Danube flooding 
+the city of Krems. 
+
+Finally, all code is available on [our github page](https://github.com/esowc/ml_flood) for interested people to build their ML models upon.
+
+> IMAGE 
+
+> IMAGE 
+
+
+For further information visit our github page, [ml_flood@github](https://github.com/esowc/ml_flood), or
+[the official website of the ECMWF Summer of Weather Code](https://www.ecmwf.int/en/learning/workshops/ecmwf-summer-weather-code-2019).
