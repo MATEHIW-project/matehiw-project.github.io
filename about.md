@@ -4,6 +4,10 @@ title: About us
 permalink: /about/
 ---
 
+<div style="text-align: right"> 23 Apr 2019 </div>
+
+---
+
 We, Sebastian Lehner and Lukas Kugler, are studying the Master program in Meteorology at the University of Vienna and we expect to finish in 2019.
 
 #### [Sebastian Lehner, BSc](https://www.researchgate.net/profile/Sebastian_Lehner)
