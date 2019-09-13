@@ -5,4 +5,4 @@
 layout: home
 ---
 
-<img src="https://matehiw-project.github.io/assets/ml_flood_test_period_timeseries_metrics_14day_small.png" alt="model-steps" width="300"/>
+<img src="https://matehiw-project.github.io/assets/ml_flood_test_period_timeseries_metrics_14day_small.png" alt="model-steps" width="750"/>
