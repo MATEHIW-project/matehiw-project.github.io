@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Final Results"
+date:   2019-09-13 12:00:00 +0000
+categories: jekyll update
+---
+
+Hi, 
+
+after 4 months of coding in our spare time, the project has come to an end and we are proud to present some of the results.
+
+In the first few weeks, while analyzing the datasets, we realized the complexity of hydrological models from a modelling point of view: In contrast to many other tasks, we are not dealing with a local cause-effect relation but multi-dimensional dependencies. Water is transported to a certain river point on a wide range of time and spatial scales through quite different mechanisms (surface/sub-surface runoff) and affected by different meteorological and hydrological variables.
+
+The proposed goal, a comparison of different ML techniques applied to forecasting flooding events, could be accomplished. 
+
+In the picture below, 14-day forecast for a Linear Regression, Support Vector Regressor, Gradient Boosting Regressor and a Time-Delay Neural Net model can be seen ([Linear and Support-vector regression, Gradient-Boosting as well as a time-delay neural network were used.](https://github.com/esowc/ml_flood/tree/master/notebooks/3_model_tests) ). The two bottom plots show the corresponding per-forecast-day metrics Root Mean Square Error on the lefthandside and Nash-Sutcliffe-Efficiency on the righthandside.
+Those first results look quite promising, especially when considering the short time available, to make them work from scratch. There is a lot of room for further improvements, hence it could be the basis for further work.
+Considering all of the associated coupled spatio-temporal effects causing flooding events, we propose a
+[complex model architecture](https://raw.githubusercontent.com/esowc/ml_flood/master/notebooks/resources/model-steps_v2-1.png(277 kB))
+that would be able to better handle all of the relevant processes and predict the river flow on the whole spatial domain.
+As the project period is already over, this is merely a conceptual idea, upon which future work can be based on.
+
+All models were trained with data from ERA5, which served as predictors and GloFAS reanalyses (predictand) for about ten years and evaluated against each other, but also against persistence forecasts and the GloFAS forecast reruns.
+
+The 2013 European floods served as example case of how these ML models could have predicted the Danube flooding 
+the city of Krems. 
+
+Finally, all code is available on [our github page](https://github.com/esowc/ml_flood) for interested people to build their ML models upon.
+
+> IMAGE
+
+
+For further information visit our github page, [ml_flood@github](https://github.com/esowc/ml_flood), or
+[the official website of the ECMWF Summer of Weather Code](https://www.ecmwf.int/en/learning/workshops/ecmwf-summer-weather-code-2019).
+Follow all projects on Twitter:  [@esowc_ecmwf](https://twitter.com/esowc_ecmwf) and #ESoWC2019
