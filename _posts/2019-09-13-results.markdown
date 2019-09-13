@@ -27,7 +27,7 @@ the city of Krems.
 
 Finally, all code is available on [our github page](https://github.com/esowc/ml_flood) for interested people to build their ML models upon.
 
-> IMAGE
+![evaluation graph comparing the ML models](/assets/ml_flood_test_period_timeseries_metrics_14day.png)
 
 
 For further information visit our github page, [ml_flood@github](https://github.com/esowc/ml_flood), or
